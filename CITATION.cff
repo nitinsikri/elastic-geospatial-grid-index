@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Elastic Cloud Storage and Hierarchical Grid Indexing for Geospatial Vector Data"
+type: software
+authors:
+  - family-names: Sikri
+    given-names: Nitin
+    orcid: "https://orcid.org/0009-0009-4096-5062"
+license: MIT
+repository-code: "https://github.com/nitinsikri/elastic-geospatial-grid-index"
+date-released: "2026-11-19"
+keywords:
+  - "geospatial"
+  - "vector data"
+  - "spatial index"
+  - "HBase"
+  - "cloud storage"
+preferred-citation:
+  type: conference-paper
+  title: "Elastic Cloud Infrastructure for Massive-Scale Geospatial Vector Data Management"
+  authors:
+    - family-names: Sikri
+      given-names: Nitin
+      orcid: "https://orcid.org/0009-0009-4096-5062"
+  collection-title: "Proceedings of the 5th International Conference on Big Data and Artificial Intelligence Applications (ICBDAIA'26)"
+  publisher:
+    name: "Springer, Lecture Notes in Networks and Systems"
+  year: 2026
