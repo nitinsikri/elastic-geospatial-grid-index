@@ -1,5 +1,7 @@
 # Elastic Cloud Storage and Hierarchical Grid Indexing for Geospatial Vector Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24380911.svg)](https://doi.org/10.5281/zenodo.24380911)
+
 Reference implementation of the method described in:
 
 **Nitin Sikri.** *Elastic Cloud Infrastructure for Massive-Scale Geospatial Vector Data Management.* Proceedings of the 5th International Conference on Big Data and Artificial Intelligence Applications (ICBDAIA'26), Springer, Lecture Notes in Networks and Systems, 2026. *(In press.)*
@@ -60,6 +62,8 @@ If you use this code, please cite the paper:
   year      = {2026}
 }
 ```
+
+To cite this software itself, use its Zenodo DOI: [10.5281/zenodo.24380911](https://doi.org/10.5281/zenodo.24380911).
 
 GitHub also shows a **"Cite this repository"** button generated from `CITATION.cff`.
 
